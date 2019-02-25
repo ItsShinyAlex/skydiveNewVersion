@@ -506,7 +506,7 @@ a nivel mundial ¡Y los tenemos aquí para ti!</p>
         <p> skydivemexico@gmail.com</p>
         </div>
          <div class="col">
-             <?php echo do_shortcode( '[caldera_form id="CF5c5e20b4623a8"]' ); ?>  
+             <?php echo do_shortcode( '[caldera_form id="CF589cf4849d1e6"]' ); ?>  
          </div>
     </div>
      </div>

@@ -1978,6 +1978,7 @@ article.selected {
 }
 .curso #contacto {
   background: url(../img/academia/contacto.png) no-repeat center;
+  padding: 23px 0px;
 }
 .curso #contacto h2 {
   color: white;
@@ -1989,7 +1990,6 @@ article.selected {
   margin-top: 97px;
 }
 .curso #contacto form {
-  margin-top: 240px;
   font-family: 'Avenir';
 }
 .curso #contacto .btn-new {
