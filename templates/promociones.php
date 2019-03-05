@@ -16,7 +16,7 @@
         <div class="flex">
 
             <div class="col onlyimg">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/promociones/loveisintheair.jpg" alt="Promoción love is in the air">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/promociones/promo.jpg" alt="Promocion">
             </div>
 
             <div class="col form">

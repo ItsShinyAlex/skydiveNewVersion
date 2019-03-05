@@ -40,7 +40,7 @@
             
                 <div class="flex padtop">
                     <div class="col smaller">
-                        <a href="" class="btn-new">
+                        <a href="#precios" class="btn-new">
                             PAQUETES
                         </a>
                     </div>
@@ -646,7 +646,7 @@
                     
                 </div>
                 
-                     <a href="https://skydivemexico.mx/promociones-salto-en-paracaidas/" class="social-container twitter" target="_blank">
+                     <a href="https://skydivemexico.mx/promociones/" class="social-container twitter" target="_blank">
                     <div class="social-cube">
                       <div class="front center">
                         RESERVA AQUÍ
@@ -752,7 +752,7 @@
           <div class="col">
               
               <div class="fcentered">
-                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor1.png" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor1.png" alt="Foto de salto en paracaidas">
               </div>
               <h3>
                   VÍDEO DE MANO
@@ -781,7 +781,7 @@
            <div class="col">
               
               <div class="fcentered">
-                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor2.png" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor2.png" alt="Foto de salto en paracaidas">
               </div>
               <h3>
                   FOTO Y VÍDEO DE MANO
@@ -815,7 +815,7 @@
            <div class="col">
               
               <div class="fcentered">
-                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor3.png" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor3.png" alt="Foto de salto en paracaidas">
               </div>
               <h3>
                   FOTO Y VÍDEO EXTERNO
@@ -845,7 +845,7 @@
             <div class="col">
               
               <div class="fcentered">
-                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor4.png" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/inmor4.png" alt="Foto de salto en paracaidas">
               </div>
               <h3>
                   PAQUETE PREMIUM
@@ -884,7 +884,7 @@
         
         <div class="fcentered">
             
-              <a href="https://skydivemexico.mx/promociones-salto-en-paracaidas/" class="social-container twitter" target="_blank">
+              <a href="https://skydivemexico.mx/promociones/" class="social-container twitter" target="_blank">
                     <div class="social-cube">
                       <div class="front center">
                         RESERVA AQUÍ
